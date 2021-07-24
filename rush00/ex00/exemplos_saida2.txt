@@ -1,0 +1,412 @@
+------------------- TESTE 1 - rush(0, 0) ----------------------------------
+EXECUTING RUSH 00: 
+
+
+EXECUTING RUSH 01: 
+
+
+EXECUTING RUSH 02: 
+
+
+EXECUTING RUSH 03: 
+
+
+EXECUTING RUSH 04: 
+
+------------------- TESTE 2 - rush(1, 0) ----------------------------------
+
+EXECUTING RUSH 00: 
+
+
+EXECUTING RUSH 01: 
+
+
+EXECUTING RUSH 02: 
+
+
+EXECUTING RUSH 03: 
+
+
+EXECUTING RUSH 04: 
+
+------------------- TESTE 3 - rush(0, 1) ----------------------------------
+
+EXECUTING RUSH 00: 
+
+
+EXECUTING RUSH 01: 
+
+
+EXECUTING RUSH 02: 
+
+
+EXECUTING RUSH 03: 
+
+
+EXECUTING RUSH 04: 
+
+------------------- TESTE 4 - rush(1, 1) ----------------------------------
+
+EXECUTING RUSH 00: 
+o
+
+
+EXECUTING RUSH 01: 
+/
+
+
+EXECUTING RUSH 02: 
+A
+
+
+EXECUTING RUSH 03: 
+A
+
+
+EXECUTING RUSH 04: 
+A
+
+------------------- TESTE 5 - rush(2, 1) ----------------------------------
+
+EXECUTING RUSH 00: 
+oo
+
+
+EXECUTING RUSH 01: 
+/\
+
+
+EXECUTING RUSH 02: 
+AA
+
+
+EXECUTING RUSH 03: 
+AC
+
+
+EXECUTING RUSH 04: 
+AC
+
+------------------- TESTE 6 - rush(3, 1) ----------------------------------
+
+EXECUTING RUSH 00: 
+o-o
+
+
+EXECUTING RUSH 01: 
+/*\
+
+
+EXECUTING RUSH 02: 
+ABA
+
+
+EXECUTING RUSH 03: 
+ABC
+
+
+EXECUTING RUSH 04: 
+ABC
+
+------------------- TESTE 7 - rush(4, 1) ----------------------------------
+
+EXECUTING RUSH 00: 
+o--o
+
+
+EXECUTING RUSH 01: 
+/**\
+
+
+EXECUTING RUSH 02: 
+ABBA
+
+
+EXECUTING RUSH 03: 
+ABBC
+
+
+EXECUTING RUSH 04: 
+ABBC
+
+------------------- TESTE 8 - rush(1, 2) ----------------------------------
+
+EXECUTING RUSH 00: 
+o
+o
+
+
+EXECUTING RUSH 01: 
+/
+\
+
+
+EXECUTING RUSH 02: 
+A
+C
+
+
+EXECUTING RUSH 03: 
+A
+A
+
+
+EXECUTING RUSH 04: 
+A
+C
+
+------------------- TESTE 9 - rush(1, 3) ----------------------------------
+
+EXECUTING RUSH 00: 
+o
+|
+o
+
+
+EXECUTING RUSH 01: 
+/
+*
+\
+
+
+EXECUTING RUSH 02: 
+A
+B
+C
+
+
+EXECUTING RUSH 03: 
+A
+B
+A
+
+
+EXECUTING RUSH 04: 
+A
+B
+C
+
+------------------- TESTE 10 - rush(1, 4) ----------------------------------
+
+EXECUTING RUSH 00: 
+o
+|
+|
+o
+
+
+EXECUTING RUSH 01: 
+/
+*
+*
+\
+
+
+EXECUTING RUSH 02: 
+A
+B
+B
+C
+
+
+EXECUTING RUSH 03: 
+A
+B
+B
+A
+
+
+EXECUTING RUSH 04: 
+A
+B
+B
+C
+
+------------------- TESTE 11 - rush(2, 2) ----------------------------------
+
+EXECUTING RUSH 00: 
+oo
+oo
+
+
+EXECUTING RUSH 01: 
+/\
+\/
+
+
+EXECUTING RUSH 02: 
+AA
+CC
+
+
+EXECUTING RUSH 03: 
+AC
+AC
+
+
+EXECUTING RUSH 04: 
+AC
+CA
+
+------------------- TESTE 12 - rush(3, 3) ----------------------------------
+
+EXECUTING RUSH 00: 
+o-o
+| |
+o-o
+
+
+EXECUTING RUSH 01: 
+/*\
+* *
+\*/
+
+
+EXECUTING RUSH 02: 
+ABA
+B B
+CBC
+
+
+EXECUTING RUSH 03: 
+ABC
+B B
+ABC
+
+
+EXECUTING RUSH 04: 
+ABC
+B B
+CBA
+
+------------------- TESTE 13 - rush(3, 2) ----------------------------------
+
+EXECUTING RUSH 00: 
+o-o
+o-o
+
+
+EXECUTING RUSH 01: 
+/*\
+\*/
+
+
+EXECUTING RUSH 02: 
+ABA
+CBC
+
+
+EXECUTING RUSH 03: 
+ABC
+ABC
+
+
+EXECUTING RUSH 04: 
+ABC
+CBA
+
+------------------- TESTE 14 - rush(2, 3) ----------------------------------
+
+EXECUTING RUSH 00: 
+oo
+||
+oo
+
+
+EXECUTING RUSH 01: 
+/\
+**
+\/
+
+
+EXECUTING RUSH 02: 
+AA
+BB
+CC
+
+
+EXECUTING RUSH 03: 
+AC
+BB
+AC
+
+
+EXECUTING RUSH 04: 
+AC
+BB
+CA
+
+------------------- TESTE 15 - rush(5, 3) ----------------------------------
+
+EXECUTING RUSH 00: 
+o---o
+|   |
+o---o
+
+
+EXECUTING RUSH 01: 
+/***\
+*   *
+\***/
+
+
+EXECUTING RUSH 02: 
+ABBBA
+B   B
+CBBBC
+
+
+EXECUTING RUSH 03: 
+ABBBC
+B   B
+ABBBC
+
+
+EXECUTING RUSH 04: 
+ABBBC
+B   B
+CBBBA
+
+------------------- TESTE 16 - rush(3, 5) ----------------------------------
+
+EXECUTING RUSH 00: 
+o-o
+| |
+| |
+| |
+o-o
+
+
+EXECUTING RUSH 01: 
+/*\
+* *
+* *
+* *
+\*/
+
+
+EXECUTING RUSH 02: 
+ABA
+B B
+B B
+B B
+CBC
+
+
+EXECUTING RUSH 03: 
+ABC
+B B
+B B
+B B
+ABC
+
+
+EXECUTING RUSH 04: 
+ABC
+B B
+B B
+B B
+CBA
+
+------------------- FIM ----------------------------------
+
